@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+   
+    text-align: center;
+    background-color: #747474a3;
+    place-items: center;
+    position: relative;
+    height: 16vh;
+    
+    
+}
+h3{
+    justify-content: center;
+    padding-top: 22px;
+    font-size: 35px;
+}
+span{
+    color: red;
+}
+.btn-btn{
+    background-color: black;
+    color: #95e60c;
+    border: 2px solid pink;
+    padding: 11px;
+    border-radius: 8px;
+    font-size: 16px;
+    margin-top: 16vh;
+}
+.btn-btn:hover{
+    background-color: palevioletred;
+    color:black;
+    border: 2px solid greenyellow;
+}
+img{
+    height: 56px;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6vh;
+    margin-top: 4vh;
+} 
